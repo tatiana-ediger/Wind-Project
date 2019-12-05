@@ -2095,3 +2095,4 @@ Time Period,Location,Wind Direction (degrees),Wind Speed (m_s-1),Air Pressure (p
 2019-11-22T19:50:00+00:00,https://api.weather.gov/stations/KGPM,300.0,2.6,101860.0,10.0
 2019-11-22T20:50:00+00:00,https://api.weather.gov/stations/KGPM,300.0,4.1,101860.0,10.0
 2019-11-22T21:50:00+00:00,https://api.weather.gov/stations/KGPM,300.0,5.1,101930.0,8.0
+Time Period,Location,Wind Direction (degrees),Wind Speed (m_s-1),Air Pressure (pa),Temperature (C)
